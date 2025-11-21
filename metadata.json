@@ -1,0 +1,7 @@
+{
+  "name": "PM Interview Simulator",
+  "description": "A rigorous Product Management mock interview application powered by Gemini 2.5 Flash. It simulates a senior PM leader evaluating product sense, analytical thinking, and strategy.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
